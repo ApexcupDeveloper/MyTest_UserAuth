@@ -6,7 +6,7 @@ This is a test [**React Native**](https://reactnative.dev) project, bootstrapped
 
 ## Step 1: Update the Base URL on `src/api/constant.js`
 
-   ```
+   ```bash
    # from
    export const API_BASE_URL = 'https://0413-23-237-32-34.ngrok.io/users';
    # to
